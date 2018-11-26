@@ -163,6 +163,6 @@ Create a new view for the action.
 ```
 ### The video link of this homework and the screen shot.
 [Homework7](https://www.youtube.com/watch?v=oz9EtQOevcY&feature=youtu.be)
-![Table](images/hw7.png)
+![Table](hw7.png)
 
 
