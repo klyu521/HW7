@@ -161,28 +161,10 @@ Create a new view for the action.
     <script type="text/javascript" src="~/Scripts/AJAX.js"></script>
 }
 ```
-### The video link of this homework and the screen shot.
+### The video link of this homework 
 [Homework7](https://www.youtube.com/watch?v=oz9EtQOevcY&feature=youtu.be)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### The screen shot of this homework 
 
 ![Table](hw7.png)
 
